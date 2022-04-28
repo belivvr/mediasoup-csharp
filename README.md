@@ -1,5 +1,5 @@
-# mediasoup-unity
-mediasoup for unity
+# mediasoup-sharp
+mediasoup for csharp
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/40684200?s=200&v=4" alt="Belivvr Logo" />
 </div>
@@ -11,7 +11,7 @@ mediasoup for unity
 
 ## Description
 
-mediasoup client for unity <br/>
+mediasoup client for csharp <br/>
 Using [libmediasoupclient(already include in this project)](https://github.com/versatica/libmediasoupclient)'s [CppDLL](https://github.com/belivvr/mediasoup-client-cpp) for unity
 
 ### Structure
